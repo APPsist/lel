@@ -1,0 +1,13 @@
+{
+	"main" : "de.appsist.service.lel.LELMainVerticle",
+
+	"description" : "Put description of your module here",
+	"licenses" : ["The Apache Software License Version 2.0"],
+	"author" : "Michael Dietrich",
+
+	"developers": ["Other Dev 1", "Other Dev 2"],
+	"keywords": ["gerbils", "cars", "cheese", "chocolate", "underpants", "herring"],
+	"homepage": "http://www.appsist.de/",
+
+	"auto-redeploy": true
+}
